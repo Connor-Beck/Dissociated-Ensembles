@@ -1,1 +1,3 @@
-# Dissociated-NeuronalEnsembles
+# Dissociated-Ensembles
+
+Contains code for ...
